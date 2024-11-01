@@ -1,0 +1,17 @@
+.nav-item {
+    margin: 0.5rem;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+    padding: 0 1.5rem;
+}

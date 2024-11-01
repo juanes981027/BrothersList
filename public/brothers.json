@@ -1,0 +1,30 @@
+[
+    {
+        "firstName": "Juan",
+        "lastName": "Pérez",
+        "phoneNumber": "123-456-7890",
+        "age": 30,
+        "dob": "1994-05-20"
+    },
+    {
+        "firstName": "María",
+        "lastName": "González",
+        "phoneNumber": "098-765-4321",
+        "age": 25,
+        "dob": "1999-03-15"
+    },
+    {
+        "firstName": "Luis",
+        "lastName": "Martínez",
+        "phoneNumber": "456-789-1230",
+        "age": 40,
+        "dob": "1983-11-30"
+    },
+    {
+        "firstName": "Ana",
+        "lastName": "Hernández",
+        "phoneNumber": "321-654-9870",
+        "age": 35,
+        "dob": "1988-07-10"
+    }
+]
